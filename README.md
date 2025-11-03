@@ -23,7 +23,7 @@ Git · GitHub · IntelliJ · VSCode · Docker · Postman · MySQL
 
 | 프로젝트 | 설명 | 기술 스택 |
 |-----------|-------|------------|
-| [📝 Spring Board](https://github.com/mkkim021/spring-board) | CRUD 게시판 프로젝트 | Java, Spring Boot, MySQL |
+| [📝 Spring Board](https://github.com/kminseok-dev/spring-board) | CRUD 게시판 프로젝트 | Java, Spring Boot, MySQL, Docker-compose |
 
 
 ---
