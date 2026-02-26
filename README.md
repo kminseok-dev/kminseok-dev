@@ -37,8 +37,8 @@ Git · GitHub · IntelliJ · VSCode · Docker · Postman · MySQL
 ---
 
 ## 📫 연락처 (Contact)
-- **이메일:** dgd5980@naver.com  
-- **GitHub:** [@mkkim021](https://github.com/mkkim021)  
+- **이메일:** kms0244@gmail.com  
+- **GitHub:** [@kminseok-dev](https://github.com/mkkim021)  
 
 
 ---
