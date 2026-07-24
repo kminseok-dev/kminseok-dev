@@ -1,3 +1,12 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=kminseok-dev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kminseok-dev"
+  width="600"
+  height="300"
+  background-color="black"
+/>
+</a>
+
 # 👋 안녕하세요, 김민석입니다!
 
 꾸준히 배우고 성장하는 **백엔드 개발자 지망생**입니다.  
